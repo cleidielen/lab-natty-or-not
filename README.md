@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Futuro da IA Generativa na Segurança Cibernética 🌐
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 13 páginas explora o impacto revolucionário da IA Generativa na segurança cibernética e como ela moldará o futuro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
+Canva para edição e design.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para revisar minha pesquisa sobre IA Generativa, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o Leonardo AI foi usado para gerar imagens exclusivas para o nosso e-book. A montagem final e o design foram feitos no Canva, uma ferramenta de design online.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente sobre o impacto da IA Generativa na segurança cibernética, demonstrando como a IA Generativa pode ser uma ferramenta poderosa na segurança cibernética, educação e disseminação do conhecimento.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
